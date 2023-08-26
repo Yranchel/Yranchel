@@ -25,5 +25,5 @@
 </div>
 
 <div "align="center">
-<img src= "https://github.com/Yranchel/Yranchel/issues/1#issue-1868141996"
+ <img align="center" alt="Picture" height="30" width="40" src="https://github.com/Yranchel/Yranchel/issues/1#issue-1868141996">
 </div>
