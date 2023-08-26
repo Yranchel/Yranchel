@@ -10,7 +10,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="OCTOCAT" height="30" width="40" src=![octocat-1693061772151](https://github.com/Yranchel/Yranchel/assets/115661982/9b5de427-acd4-42b8-9bdf-b742c45b964b)>
+ 
 
 </div>
  
