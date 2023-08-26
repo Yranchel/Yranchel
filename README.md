@@ -24,6 +24,10 @@
     <img align="center" alt="OCTOCAT" height="30" width="40" src=![octocat-1693061772151](https://github.com/Yranchel/Yranchel/assets/115661982/9b5de427-acd4-42b8-9bdf-b742c45b964b)>
 
  
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 </div>
