@@ -12,7 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
 </div>
-  <img align="center" alt="OCTOCAT" height="30" width="40" src=![octocat-1693061772151](https://github.com/Yranchel/Yranchel/assets/115661982/9b5de427-acd4-42b8-9bdf-b742c45b964b)>
+
  <br>
  
   ### Redes sociais!
@@ -21,6 +21,8 @@
  
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/yuri-ranchel-984476157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <img align="center" alt="OCTOCAT" height="30" width="40" src=![octocat-1693061772151](https://github.com/Yranchel/Yranchel/assets/115661982/9b5de427-acd4-42b8-9bdf-b742c45b964b)>
+
  
 ![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
 
