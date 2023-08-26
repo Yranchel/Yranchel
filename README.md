@@ -23,7 +23,3 @@
   <a href="https://www.linkedin.com/in/yuri-ranchel-984476157/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-
-<div align="center">
-<img src="![octocat-1693061772151](https://github.com/Yranchel/Yranchel/assets/115661982/fc672afd-aebb-48b1-89c2-7ec9bee87baf)/>
-</div>
