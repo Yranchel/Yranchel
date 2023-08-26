@@ -25,5 +25,5 @@
 </div>
 
 <div "align="center">
-< img src= "![octocat-1693061772151](https://github.com/Yranchel/Yranchel/assets/115661982/f9d2f911-645b-4dda-9c58-df7606504f3a) width="700px"/>
+<img src= "![octocat-1693061772151](https://github.com/Yranchel/Yranchel/assets/115661982/f9d2f911-645b-4dda-9c58-df7606504f3a) width="700px"/>
 </div>
